@@ -46,4 +46,3 @@ while i<3:
     i+=1
 
 print("Total de USDT es" , str(total))
-    
